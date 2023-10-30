@@ -1,0 +1,26 @@
+{
+  "name": "@steads/proxy-to-gate",
+  "type": "module",
+  "version": "1.0.1",
+  "description": "Proxy the unhandled calls to a certain class",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {},
+  "files": [
+    "dist"
+  ],
+  "bugs": {
+    "url": "https://github.com/zareismail/steads-proxy-to-gate/issues",
+    "email": "zarehesmaiel@gmail.com"
+  },
+  "keywords": [
+    "proxy-to-gate",
+    "proxy"
+  ],
+  "author": "Ismail Zare <zarehesmaiel@gmail.com> (https://github.com/zareismail)",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  }
+}
